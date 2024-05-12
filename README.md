@@ -25,3 +25,4 @@ cd httrack
 ./configure --prefix=$HOME/usr && make -j8 && make install
 ```
 # modhttrack
+A mod that eases URL restrictions to suit the times. URLs are almost unlimited.
